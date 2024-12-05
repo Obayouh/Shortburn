@@ -707,7 +707,7 @@
                     "name": "Select",
                     "type": "Button",
                     "id": "33754c03-48ec-46ef-9bc6-22ed6bfdd8e8",
-                    "expectedControlType": "Button",
+                    "expectedControlType": "",
                     "processors": "",
                     "interactions": "",
                     "initialStateCheck": false
@@ -810,6 +810,15 @@
                     "processors": "",
                     "interactions": "",
                     "initialStateCheck": true
+                },
+                {
+                    "name": "CustomButton",
+                    "type": "Button",
+                    "id": "2b97249a-93d7-4a3a-b8c1-81b73bc6ad6a",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
                 }
             ],
             "bindings": [
@@ -986,6 +995,17 @@
                     "processors": "ScaleVector2(x=0),StickDeadzone",
                     "groups": "",
                     "action": "Translate Manipulation",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "18dfc1a0-3524-4ba4-831e-d746bfeb0b10",
+                    "path": "<XRController>{LeftHand}/primaryButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "CustomButton",
                     "isComposite": false,
                     "isPartOfComposite": false
                 }
