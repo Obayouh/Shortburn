@@ -37,16 +37,20 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
+    - _Float: 0
     - _Metallic: 0.248
-    - _NormalStrenght: 3.03
+    - _NoiseSize: 205.08
+    - _NormalStrenght: 0.12
+    - _NormalStrength: 0
     - _QueueControl: 0
     - _QueueOffset: 0
-    - _RippleDensity: 30.3
-    - _RippleSlimness: 3.99
+    - _RippleDensity: 63.4
+    - _RippleSlimness: 3.83
     - _RippleSpeed: 1.4
-    - _Smoothness: 0.621
+    - _Smoothness: 0.871
     m_Colors:
     - _BaseColor: {r: 0.18191525, g: 0.30098566, b: 0.5283019, a: 0}
+    - _NoiseColor: {r: 0, g: 0.22352934, b: 1, a: 0}
     - _RadialCenter: {r: 0.5, g: 0.5, b: 0, a: 0}
     - _RadialOffset: {r: 0, g: 0, b: 0, a: 0}
     - _RadialStrenght: {r: 10, g: 10, b: 0, a: 0}
