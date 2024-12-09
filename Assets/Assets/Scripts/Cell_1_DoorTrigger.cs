@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-public class DoorTrigger : MonoBehaviour
+public class Cell_1_DoorTrigger : MonoBehaviour
 {
     [SerializeField] AllLightsOn _allLightsOn;
 
