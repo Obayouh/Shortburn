@@ -6,11 +6,11 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/Fabian/Fabian's Test Scene.unity
-    guid: e3bdda548f817be48848ed895aac569d
+    path: Assets/Scenes/Fabian/Cell_1_Suite.unity
+    guid: 580bd72387f20cb4cb0d09e437319013
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: 55daccc09a3b69647bbab145b54a3ab3
+    path: Assets/Scenes/Fabian/Cell_2_Lobby.unity
+    guid: 8b340242f848e5e4c8a61bc84ddc944f
   - enabled: 1
     path: Assets/Scenes/Fabian/WinScreen.unity
     guid: 9ac5a1a9f7f5373478e93e00b457e39a

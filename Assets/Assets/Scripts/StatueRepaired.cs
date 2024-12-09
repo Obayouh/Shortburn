@@ -5,7 +5,7 @@ using UnityEngine;
 public class StatueRepaired : MonoBehaviour
 {
     [SerializeField] private GameObject[] _statuePieces;
-    /*[HideInInspector] */public bool _statueFixed = false;
+    [HideInInspector] public bool _statueFixed = false;
 
     private void Update()
     {

@@ -617,6 +617,17 @@ Mesh:
     offset: 0
     size: 0
     path: 
+--- !u!114 &172956318 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 6749889273376467119, guid: 58ffb187675056a4c80562d8fba7b1ff, type: 3}
+  m_PrefabInstance: {fileID: 993356866}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 892f176f51bcec74db39cb38d2939e4f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!43 &217879924
 Mesh:
   m_ObjectHideFlags: 0
@@ -4659,6 +4670,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Cell_2_DoorTrigger
       objectReference: {fileID: 0}
+    - target: {fileID: 984592107129445509, guid: 89292b877f3f32b4c8f971200b1f7d96, type: 3}
+      propertyPath: _statueRepaired
+      value: 
+      objectReference: {fileID: 172956318}
     - target: {fileID: 2215851425147808134, guid: 89292b877f3f32b4c8f971200b1f7d96, type: 3}
       propertyPath: m_LocalPosition.x
       value: 5
@@ -5249,11 +5264,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1631507859360101382, guid: 58ffb187675056a4c80562d8fba7b1ff, type: 3}
       propertyPath: m_IsActive
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2416607136686716936, guid: 58ffb187675056a4c80562d8fba7b1ff, type: 3}
       propertyPath: m_IsActive
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4917835065227447561, guid: 58ffb187675056a4c80562d8fba7b1ff, type: 3}
       propertyPath: m_LocalPosition.y
