@@ -6,6 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/Fabian/Fabian's Test Scene.unity
+    guid: e3bdda548f817be48848ed895aac569d
+  - enabled: 1
     path: Assets/Scenes/SampleScene.unity
     guid: 55daccc09a3b69647bbab145b54a3ab3
   m_configObjects:
