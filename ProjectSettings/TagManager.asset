@@ -7,6 +7,8 @@ TagManager:
   - Anchor
   - Bulb
   - StatuePiece
+  - KillPlane
+  - Checkpoint
   layers:
   - Default
   - TransparentFX
