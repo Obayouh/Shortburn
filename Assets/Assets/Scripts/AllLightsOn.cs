@@ -5,7 +5,7 @@ using UnityEngine;
 public class AllLightsOn : MonoBehaviour
 {
     [SerializeField] private GameObject[] _lightsOn;
-    [HideInInspector] public bool _bulbsOn = false;
+    /*[HideInInspector]*/ public bool _bulbsOn = false;
 
     void Update()
     {
