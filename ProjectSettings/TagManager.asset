@@ -9,6 +9,7 @@ TagManager:
   - StatuePiece
   - KillPlane
   - Checkpoint
+  - GrabObject
   layers:
   - Default
   - TransparentFX
