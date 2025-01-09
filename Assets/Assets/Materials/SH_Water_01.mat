@@ -38,23 +38,23 @@ Material:
     m_Ints: []
     m_Floats:
     - _Float: 0
-    - _Metallic: 0.248
+    - _Metallic: 0
     - _NoiseSize: 205.08
     - _NormalStrenght: 0.12
     - _NormalStrength: 0
     - _QueueControl: 0
     - _QueueOffset: 0
-    - _RippleDensity: 63.4
+    - _RippleDensity: 138.2
     - _RippleSlimness: 3.83
-    - _RippleSpeed: 1.4
-    - _Smoothness: 0.871
+    - _RippleSpeed: 0.6
+    - _Smoothness: 0
     m_Colors:
-    - _BaseColor: {r: 0.18191525, g: 0.30098566, b: 0.5283019, a: 0}
+    - _BaseColor: {r: 0, g: 0.23001887, b: 0.6603774, a: 0}
     - _NoiseColor: {r: 0, g: 0.22352934, b: 1, a: 0}
     - _RadialCenter: {r: 0.5, g: 0.5, b: 0, a: 0}
     - _RadialOffset: {r: 0, g: 0, b: 0, a: 0}
     - _RadialStrenght: {r: 10, g: 10, b: 0, a: 0}
-    - _RippleColor: {r: 0.20754719, g: 0.20754719, b: 0.20754719, a: 0}
+    - _RippleColor: {r: 0.11587752, g: 0.1711318, b: 0.26415092, a: 0}
   m_BuildTextureStacks: []
 --- !u!114 &9019434018804379570
 MonoBehaviour:
