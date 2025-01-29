@@ -52,6 +52,10 @@ PrefabInstance:
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: 95d8fbcdff7a9ba4bb88c0442a6d3628, type: 2}
+    - target: {fileID: -7511558181221131132, guid: 0394b4bd7dbd2384ab9d3b5f3ea8382b, type: 3}
+      propertyPath: m_Materials.Array.data[1]
+      value: 
+      objectReference: {fileID: 2100000, guid: 9b5f328dae267924a9b6d27c4b5244b6, type: 2}
     - target: {fileID: 919132149155446097, guid: 0394b4bd7dbd2384ab9d3b5f3ea8382b, type: 3}
       propertyPath: m_Name
       value: SuiteWindow_01
